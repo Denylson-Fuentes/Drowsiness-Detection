@@ -5,4 +5,4 @@ I wanted to compare a variety of pre-trained models against a hybrid of DenseNet
 
 
 ## Dataset ##
-You can find the [dataset]{https://www.kaggle.com/datasets/hazemfahmy/openned-closed-eyes} in Kaggle. 
+You can find the [dataset](https://www.kaggle.com/datasets/hazemfahmy/openned-closed-eyes) in Kaggle. 
